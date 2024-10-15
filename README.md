@@ -9,4 +9,7 @@ A high-level summary of key sales metrics, including total quantity ordered, tot
 ![Sales_Dashboard](https://github.com/Herola007/Business-Overview-Power-BI/blob/main/Dashboard_Img/Sales_Dashboard.png?raw=true)
 
 ## Orders Dashboard
+Offering a detailed look into logistics performance, this dashboard provided insights into total orders received, shipments sent, shipment modes, and cities served. It also highlighted the most preferred shipment modes, States/Provinces with the most orders, and the top product categories and sub-categories by order volume. Additionally, the dashboard displayed the top 10 customers with the highest orders, in line with the CEO's goal to celebrate these loyal customers.
+
+![Orders_Dashboard](https://github.com/Herola007/Business-Overview-Power-BI/blob/main/Dashboard_Img/Orders_Dashboard.png?raw=true)
 
